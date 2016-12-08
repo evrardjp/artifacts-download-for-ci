@@ -1,0 +1,2 @@
+[mirrors]
+localhost ansible_connection=local
